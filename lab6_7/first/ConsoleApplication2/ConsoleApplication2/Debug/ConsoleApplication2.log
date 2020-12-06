@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+D:\учёба\ООТПИСП\lab14\first\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(95,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\учёба\ООТПИСП\lab14\first\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(98,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\учёба\ООТПИСП\lab14\first\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(123,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\учёба\ООТПИСП\lab14\first\ConsoleApplication2\Debug\ConsoleApplication2.exe
